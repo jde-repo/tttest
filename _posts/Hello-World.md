@@ -2,8 +2,7 @@
 layout: post
 title: 제목A
 ---
- -->
-회으록 내용을 씁니다.
+ --
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
