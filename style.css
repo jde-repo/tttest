@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $darkGray;
+  color: #000000;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGray;
+    color: #000000;
   }
 }
 
@@ -225,14 +225,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #000000;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $darkGray;
+      color: #000000;
     }
   }
 }
@@ -254,9 +254,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #000000;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #000000;
     font-size: 22px;
     font-style: italic;
   }
