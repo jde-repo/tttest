@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 제목
+title: 제목A
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
